@@ -2,7 +2,7 @@
 
 ![Screenshot of Dashboard](https://user-images.githubusercontent.com/57844775/120104277-f4e49700-c153-11eb-99c6-9e8119622ed3.png)
 
-![Screenshot of Dashboard2](https://user-images.githubusercontent.com/57844775/120104284-fa41e180-c153-11eb-89b8-a81e10941c2f.png)
+![Screenshot of Dashboard2](https://user-images.githubusercontent.com/57844775/120104443-b69ba780-c154-11eb-9db4-bbcb45e10306.png)
 
 ## Description
 
